@@ -1,0 +1,5 @@
+## git ignore ##
+
+
+## do not upload excel file
+*.xlsx
